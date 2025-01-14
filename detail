@@ -1,0 +1,130 @@
+{
+  "detail": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+      "description": "Inception is a science fiction thriller directed by Christopher Nolan, blending complex concepts of dreams and reality. It features a stellar cast led by Leonardo DiCaprio.",
+      "reviews": [
+        {
+          "author": "Film Critic",
+          "rating": 9,
+          "comment": "A mind-bending masterpiece with stunning visuals and a gripping plot."
+        },
+        {
+          "author": "User123",
+          "rating": 8.5,
+          "comment": "Inception challenges the audience's perception of reality in a unique way."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "synopsis": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+      "description": "Christopher Nolan's The Dark Knight is a genre-defining superhero film, known for its darker tone and Heath Ledger's iconic portrayal of The Joker.",
+      "reviews": [
+        {
+          "author": "Film Buff",
+          "rating": 9.5,
+          "comment": "An intense and emotionally charged film with brilliant performances."
+        },
+        {
+          "author": "Cinephile99",
+          "rating": 9,
+          "comment": "One of the greatest superhero films ever made."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "description": "Directed by Christopher Nolan, Interstellar is a visually stunning epic that explores love, sacrifice, and humanity's place in the universe.",
+      "reviews": [
+        {
+          "author": "AstroFan",
+          "rating": 9,
+          "comment": "A visually stunning and emotionally resonant sci-fi adventure."
+        },
+        {
+          "author": "SpaceLover",
+          "rating": 8.7,
+          "comment": "Nolan takes us on an unforgettable journey through time and space."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Avatar",
+      "synopsis": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "description": "James Cameron's Avatar revolutionized 3D cinema with its groundbreaking visuals and immersive world-building.",
+      "reviews": [
+        {
+          "author": "VisualExpert",
+          "rating": 9,
+          "comment": "An immersive visual experience like no other."
+        },
+        {
+          "author": "SciFiFan",
+          "rating": 8.5,
+          "comment": "A spectacular and thought-provoking sci-fi adventure."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The Matrix",
+      "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "description": "The Matrix is a sci-fi action film directed by the Wachowskis, known for its groundbreaking special effects and philosophical themes.",
+      "reviews": [
+        {
+          "author": "NeoFan",
+          "rating": 9.5,
+          "comment": "A revolutionary film that redefined action and sci-fi genres."
+        },
+        {
+          "author": "Techie99",
+          "rating": 9,
+          "comment": "A thrilling ride with deep philosophical undertones."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Gladiator",
+      "synopsis": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "description": "Ridley Scott's Gladiator is a gripping historical epic with powerful performances and spectacular battle sequences.",
+      "reviews": [
+        {
+          "author": "HistoryBuff",
+          "rating": 9,
+          "comment": "An epic tale of revenge and honor."
+        },
+        {
+          "author": "MovieLover",
+          "rating": 8.7,
+          "comment": "A visually impressive and emotionally impactful film."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "synopsis": "A meek Hobbit and eight companions set out on a journey to destroy a powerful ring and save Middle-earth.",
+      "description": "Peter Jackson's adaptation of J.R.R. Tolkien's classic fantasy novel is an epic cinematic achievement.",
+      "reviews": [
+        {
+          "author": "FantasyFan",
+          "rating": 9.5,
+          "comment": "A breathtaking and faithful adaptation of the beloved novel."
+        },
+        {
+          "author": "EpicJourney",
+          "rating": 9,
+          "comment": "An unforgettable fantasy adventure."
+        }
+      ]
+    }
+  ]
+}
