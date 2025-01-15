@@ -1,18 +1,18 @@
- {
-         "id":1,
-         "title":"Inception",
-         "synopsis":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-         "description":"Inception is a science fiction thriller directed by Christopher Nolan, blending complex concepts of dreams and reality. It features a stellar cast led by Leonardo DiCaprio.",
-         "reviews":[
-            {
-               "author":"Film Critic",
-               "rating":9,
-               "comment":"A mind-bending masterpiece with stunning visuals and a gripping plot."
-            },
-            {
-               "author":"User123",
-               "rating":8.5,
-               "comment":"Inception challenges the audience's perception of reality in a unique way."
-            }
-         ]
+{
+   "id":1,
+   "title":"Inception",
+   "synopsis":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+   "description":"Inception is a science fiction thriller directed by Christopher Nolan, blending complex concepts of dreams and reality. It features a stellar cast led by Leonardo DiCaprio.",
+   "reviews":[
+      {
+         "author":"Film Critic",
+         "rating":9,
+         "comment":"A mind-bending masterpiece with stunning visuals and a gripping plot."
+      },
+      {
+         "author":"User123",
+         "rating":8.5,
+         "comment":"Inception challenges the audience's perception of reality in a unique way."
       }
+   ]
+}
