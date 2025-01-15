@@ -1,0 +1,20 @@
+{
+   "id":2,
+   "title":"The Dark Knight",
+   "year":2008,
+   "director":"Christopher Nolan",
+   "duration":"152 min",
+   "genre":[
+      "Action",
+      "Crime",
+      "Drama"
+   ],
+   "language":"English",
+   "actors":[
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+   ],
+   "poster":"https://raw.githubusercontent.com/crismaver1993/UNIR/refs/heads/main/images/dark_knight.jpg",
+   "trailerUrl":"https://www.youtube.com/watch?v=EXeTwQWrcwY"
+}
